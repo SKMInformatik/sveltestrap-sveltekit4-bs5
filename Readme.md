@@ -1,3 +1,4 @@
+# Es gibt mittlerweile mit @sveltestrap/sveltestrap ein offizielles Paket für Bootstrap 5 Komponenten, daher wird dieser fork archiviert!
 ![sveltestrap](./logo.svg)
 
 ## Bootstrap 5 components for Svelte v3
